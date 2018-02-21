@@ -1,0 +1,17 @@
+﻿@model EnvironmentViewModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<h1>Front End - Environment info</h1>
+<p>Machine Name: <strong>@Model.EnvFrontEnd.MachineName</strong></p>
+<p>webAPI URL: <strong>@Model.EnvFrontEnd.WebAPIURL</strong></p>
+<p>Time: <strong>@Model.EnvFrontEnd.Time</strong></p>
+<br>
+<h1>Web API - Environment info</h1>
+<p>Machine Name: <strong>@Model.EnvWebAPI.MachineName</strong></p>
+<p>MongoDB ConnString: <strong>@Model.EnvWebAPI.MongoConnectionString</strong></p>
+<p>Time: <strong>@Model.EnvWebAPI.Time</strong></p>

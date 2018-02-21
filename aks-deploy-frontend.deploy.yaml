@@ -1,0 +1,20 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: core-app-frontend
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: core-app-frontend
+    spec:
+      containers:
+      - name: core-app-frontend
+        image: patobelardo/coreappsample-frontend
+        env:
+        - name: WebAPI__URL
+          value: http://10.0.49.36       
+        ports:
+        - containerPort: 80
+          name: http

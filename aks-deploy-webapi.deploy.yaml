@@ -1,0 +1,20 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: core-app-webapi
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: core-app-webapi
+    spec:
+      containers:
+      - name: core-app-webapi
+        image: patobelardo/coreappsample-webapi
+        env:
+        - name: MongoConnection__ConnectionString
+          value: mongodb://10.0.59.218:27017
+        ports:
+        - containerPort: 80
+          name: http

@@ -1,0 +1,10 @@
+c:\dev\aks\core\frontend-mvc\bin\Debug\netcoreapp2.0\frontend-mvc.deps.json
+c:\dev\aks\core\frontend-mvc\bin\Debug\netcoreapp2.0\frontend-mvc.runtimeconfig.json
+c:\dev\aks\core\frontend-mvc\bin\Debug\netcoreapp2.0\frontend-mvc.runtimeconfig.dev.json
+c:\dev\aks\core\frontend-mvc\bin\Debug\netcoreapp2.0\frontend-mvc.dll
+c:\dev\aks\core\frontend-mvc\bin\Debug\netcoreapp2.0\frontend-mvc.pdb
+c:\dev\aks\core\frontend-mvc\obj\Debug\netcoreapp2.0\frontend-mvc.csproj.CoreCompileInputs.cache
+c:\dev\aks\core\frontend-mvc\obj\Debug\netcoreapp2.0\frontend-mvc.AssemblyInfoInputs.cache
+c:\dev\aks\core\frontend-mvc\obj\Debug\netcoreapp2.0\frontend-mvc.AssemblyInfo.cs
+c:\dev\aks\core\frontend-mvc\obj\Debug\netcoreapp2.0\frontend-mvc.dll
+c:\dev\aks\core\frontend-mvc\obj\Debug\netcoreapp2.0\frontend-mvc.pdb

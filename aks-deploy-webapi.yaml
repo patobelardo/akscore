@@ -1,0 +1,27 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: core-app-webapi
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: core-app-webapi
+    spec:
+      containers:
+      - name: core-app-webapi
+        image: patobelardo/coreappsample-webapi
+        ports:
+        - containerPort: 80
+          name: http
+apiVersion: v1
+kind: Service
+metadata:
+  name: core-app-webapi
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: core-app-webapi
