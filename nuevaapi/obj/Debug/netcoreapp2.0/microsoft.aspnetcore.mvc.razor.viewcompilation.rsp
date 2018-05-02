@@ -1,0 +1,5 @@
+C:\dev\aks\core\nuevaapi
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=nuevaapi
+--content-root=C:\dev\aks\core\nuevaapi
+--file=

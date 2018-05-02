@@ -15,14 +15,3 @@ spec:
         ports:
         - containerPort: 80
           name: http
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: core-app-frontend
-spec:
-  type: LoadBalancer
-  ports:
-  - port: 80
-  selector:
-    app: core-app-frontend

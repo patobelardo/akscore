@@ -1,0 +1,10 @@
+C:\dev\aks\core\nuevaapi\bin\Debug\netcoreapp2.0\nuevaapi.deps.json
+C:\dev\aks\core\nuevaapi\bin\Debug\netcoreapp2.0\nuevaapi.runtimeconfig.json
+C:\dev\aks\core\nuevaapi\bin\Debug\netcoreapp2.0\nuevaapi.runtimeconfig.dev.json
+C:\dev\aks\core\nuevaapi\bin\Debug\netcoreapp2.0\nuevaapi.dll
+C:\dev\aks\core\nuevaapi\bin\Debug\netcoreapp2.0\nuevaapi.pdb
+C:\dev\aks\core\nuevaapi\obj\Debug\netcoreapp2.0\nuevaapi.csproj.CoreCompileInputs.cache
+C:\dev\aks\core\nuevaapi\obj\Debug\netcoreapp2.0\nuevaapi.AssemblyInfoInputs.cache
+C:\dev\aks\core\nuevaapi\obj\Debug\netcoreapp2.0\nuevaapi.AssemblyInfo.cs
+C:\dev\aks\core\nuevaapi\obj\Debug\netcoreapp2.0\nuevaapi.dll
+C:\dev\aks\core\nuevaapi\obj\Debug\netcoreapp2.0\nuevaapi.pdb

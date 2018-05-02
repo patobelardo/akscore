@@ -12826,11 +12826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\aks\\core\\frontend-mvc\\frontend-mvc.csproj",
+      "projectUniqueName": "C:\\dev\\aks\\core\\frontend-mvc\\frontend-mvc.csproj",
       "projectName": "frontend-mvc",
-      "projectPath": "c:\\dev\\aks\\core\\frontend-mvc\\frontend-mvc.csproj",
+      "projectPath": "C:\\dev\\aks\\core\\frontend-mvc\\frontend-mvc.csproj",
       "packagesPath": "C:\\Users\\pbelardo\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\aks\\core\\frontend-mvc\\obj\\",
+      "outputPath": "C:\\dev\\aks\\core\\frontend-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
